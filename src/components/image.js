@@ -1,0 +1,2 @@
+export const img = 'https://i.pinimg.com/originals/51/45/db/5145db46f12c38b18d94dd50492a172b.jpg'
+export const img2 = 'https://images.unsplash.com/photo-1578985545062-69928b1d9587?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxleHBsb3JlLWZlZWR8NHx8fGVufDB8fHx8&w=1000&q=80'
